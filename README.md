@@ -1,6 +1,6 @@
 # animdo
 
-A new Flutter project.
+Understanding Animations in Flutter.
 
 ## Getting Started
 
